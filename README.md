@@ -23,4 +23,6 @@ LSTM (Long Short-Term Memory): A neural network trained on dynamic data to lever
 3. Integration and UI
 The final Python program manages the game logic and user interface. It displays real-time progress, including the current score, the target letter, the model's prediction, and the confidence level.
 
+In order to play the game, the data folder is necessary.
+
 It is an engaging and dynamic game. We encourage you to play and learn more about sign language to help increase visibility for the Deaf community.
